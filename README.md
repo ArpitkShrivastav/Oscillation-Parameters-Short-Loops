@@ -1,2 +1,2 @@
 # Oscillation-Parameters-Short-Loops
-This repository contains oscillation parameters from the Solar Orbiter/HRIEUV datasets in .csv format. It includes two tables: one for oscillations in short loops within active regions, and another for those in the quiet Sun and coronal holes, as published in Shrivastav et al. (2024).
+This repository contains oscillation parameters from the Solar Orbiter/HRIEUV datasets in .csv format. It includes two tables: one for oscillations in short loops within active regions and another for those in the quiet Sun and coronal holes. The detection of decayless kink oscillations in short loops in quiet Sun and coronal holes is published in [Shrivastav et al. (2024)](https://www.aanda.org/articles/aa/full_html/2024/05/aa46670-23/aa46670-23.html) 
