@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Shrivastav
+  given-names: Arpit Kumar
+orcid: https://orcid.org/0000-0001-9035-3245
+title:ArpitkShrivastav/Oscillation-Parameters-Short-Loops: Decayless oscillations parameters for short loops in AR, QS and CH
+version: v0.0.1
+date-released: 2025-06-04
